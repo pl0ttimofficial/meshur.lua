@@ -703,3 +703,752 @@ local Button = Tab:CreateButton({
       loadstring(game:HttpGet("https://pastebin.com/raw/0GTnF2hN"))()
    end,
 })
+
+
+
+local Button = Tab:CreateButton({
+    Name = "🏠 | Brookhaven",
+    Callback = function()
+    loadstring(game:HttpGet("https://orbitsc.net/brook"))()
+    end,
+ })
+
+
+ local Button = Tab:CreateButton({
+    Name = "Universal FREE OP Hub",
+    Callback = function()
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/nf-36/Koronis/refs/heads/main/Scripts/Loader.lua"))()
+    end,
+ })
+
+ local Button = Tab:CreateButton({
+    Name = "🏐 | Volleyball Legends",
+    Callback = function()
+        loadstring(game.HttpGet(game, 'https://raw.githubusercontent.com/Xm2iufas09ijmF/sigma-hub/refs/heads/main/temp.lua'))()
+    end,
+ })
+
+
+ local Button = Tab:CreateButton({
+    Name = "🐶 | Pet Simulator 99",
+    Callback = function()
+        loadstring(game:HttpGet('https://raw.githubusercontent.com/SlamminPig/6FootScripts/main/Scripts/PetSimulator99.lua'))();
+    end,
+ })
+
+ local Button = Tab:CreateButton({
+    Name = "🐶 | Pet Simulator 99 | 2nd Script",
+    Callback = function()
+        loadstring(game:HttpGet('https://raw.githubusercontent.com/SlamminPig/6FootScripts/refs/heads/main/Scripts/PetsGo.lua'))();
+    end,
+ })
+
+ local Button = Tab:CreateButton({
+    Name = "🔙 | Rebirth Champions",
+    Callback = function()
+        loadstring(game:HttpGet('https://raw.githubusercontent.com/0vma/Strelizia/refs/heads/main/Standalone/RebirthChampionsUltimate.lua', true))()
+    end,
+ })
+
+ local Button = Tab:CreateButton({
+    Name = "🐶 | PETS GO!",
+    Callback = function()
+        loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/2529a5f9dfddd5523ca4e22f21cceffa.lua"))()
+    end,
+ })
+
+ local Button = Tab:CreateButton({
+    Name = "💨 | Legends Of Speed",
+    Callback = function()
+    loadstring(game:HttpGet("https://orbitsc.net/los"))()
+    end,
+ })
+
+ local Button = Tab:CreateButton({
+    Name = "💪 | Muscle Legends",
+    Callback = function()
+    loadstring(game:HttpGet("https://orbitsc.net/musclel"))()
+    end,
+ })
+
+ local Button = Tab:CreateButton({
+    Name = "🐶 | Pet Simulator 99 | 3nd Script",
+    Callback = function()
+    loadstring(game:HttpGet('https://zaphub.xyz/Exec'))()
+    end,
+ })
+
+
+ local Button = Tab:CreateButton({
+    Name = "🐶 | PETS GO! | 4nd Script",
+    Callback = function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/diepedyt/bui/refs/heads/main/BananaHubLoader.lua"))()
+    end,
+ })
+
+
+ local Button = Tab:CreateButton({
+    Name = "🐶 | Pet Star Simulator",
+    Callback = function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/de-ishi/scripts/refs/heads/main/Pet-Star-Simulator%20obf.lua"))()
+    end,
+ })
+
+
+ local Button = Tab:CreateButton({
+    Name = "🦶 | Anime Feet Simulator",
+    Callback = function()
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/Pryxo/RandomScripts/refs/heads/main/FreeBestPet"))()
+    end,
+ })
+
+
+
+
+ local Button = Tab:CreateButton({
+    Name = "🐶 | Pet Star Simulator | 2nd Script",
+    Callback = function()
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/de-ishi/scripts/refs/heads/main/Pet-Star-Simulator%20obf.lua"))()
+    end,
+ })
+
+
+ local Button = Tab:CreateButton({
+    Name = "🪖 | Brawlidays V2! Brawl Stars RNG",
+    Callback = function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/SpineWare/UniversalLoader/refs/heads/main/Load"))()
+    end,
+ })
+
+
+ local Button = Tab:CreateButton({
+    Name = "🔫 | Da Hood",
+    Callback = function()
+        loadstring(game:HttpGet('https://raw.githubusercontent.com/Zinzs/luascripting/main/canyoutellitsadahoodscriptornot.lua'))()
+    end,
+ })
+
+
+
+
+ local Button = Tab:CreateButton({
+    Name = "💀 | Dead Rails | 2nd Script",
+    Callback = function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/debunked69/Solixreworkkeysystem/refs/heads/main/solix%20new%20keyui.lua"))() 
+    end,
+ })
+
+
+ local Button = Tab:CreateButton({
+    Name = "🏹 | Rivals",
+    Callback = function()
+    loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/241f48b1fc63b8e5c641df2af4b39d0c.lua"))()
+    end,
+ })
+
+
+
+ local Button = Tab:CreateButton({
+    Name = "🐟 | Fisch",
+    Callback = function()
+        loadstring(game:HttpGet("https://nicuse.xyz/MainHub.lua"))()
+    end,
+ })
+
+
+
+
+ local Button = Tab:CreateButton({
+    Name = "🗡️ | Murder Mystery 2",
+    Callback = function()
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/debunked69/Solixreworkkeysystem/refs/heads/main/solix%20new%20keyui.lua"))() 
+    end,
+ })
+
+
+
+ local Button = Tab:CreateButton({
+    Name = "🔫 | Rivals | 2nd Script",
+    Callback = function()
+    loadstring(game:HttpGet('https://raw.githubusercontent.com/HexFG/duckhub/refs/heads/main/loader.lua'))()
+    end,
+ })
+
+
+ local Button = Tab:CreateButton({
+    Name = "💀 | Dead Rails | 3rd Script",
+    Callback = function()
+    loadstring(game:HttpGet(request({Url='https://aussie.productions/script'}).Body))()
+    end,
+ })
+
+
+
+ local Button = Tab:CreateButton({
+    Name = "🚪 | Doors",
+    Callback = function()
+    loadstring(game:HttpGet("https://orbitsc.net/doors"))()
+    end,
+ })
+
+
+
+ local Button = Tab:CreateButton({
+    Name = "🔫 | Arsenal",
+    Callback = function()
+        print("Autovent V3 By Storm.#1020 On Discord!")
+        print("If you see anyone with the same exact script pretending it's their's and safe")
+        print("It's a scam. The Only Source To Download This Correctly Is https://www.youtube.com/c/SynapseXExploitsISPOGGERS")
+        print("Autovent is now loading...")
+        local Material = loadstring(game:HttpGet("https://raw.githubusercontent.com/Kinlei/MaterialLua/master/Module.lua"))()
+        
+        local X = Material.Load({
+            Title = "Autovent V3",
+            Style = 3,
+            SizeX = 500,
+            SizeY = 350,
+            Theme = "Dark",
+        })
+        -- Pages
+        local Farming = X.New({
+            Title = "Auto Farm"
+        })
+        
+        local Fun = X.New({
+            Title = "Fun"
+        })
+        
+        local Guns = X.New({
+            Title = "Gun Mods"
+        })
+        
+        local Stage3 = X.New({
+            Title = "Stage 3"
+        })
+        -- Farm
+        local TeleportToColor = Farming.Button({
+            Text = "Teleport To Color Codes",
+            Callback = function(value)
+                game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(199, 62.5, -123.417603, 1, 0, 0, 0, 1, 0, 0, 0, 1)
+            end,
+        })
+        -- 409.246643, 59.1000214, 103.252541, -0.999970853, 0, -0.00763690704, 0, 1, 0, 0.00763690704, 0, -0.999970853
+        
+        local TeleportToPrice = Farming.Button({
+            Text = "View today(s) Price (Melee)",
+            Callback = function(value)
+                game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(409.246643, 59.1000214, 103.252541, -0.999970853, 0, -0.00763690704, 0, 1, 0, 0.00763690704, 0, -0.999970853)
+            end,
+        })
+        
+        local GetSquidGameTottally = Farming.Button({
+            Text = "Grab Codes (Facility Keypad)",
+            Callback = function(value)
+                local NUMBERS = game:GetService("Workspace").Map.Geometry.Facility.Notes:GetChildren()
+                for i, v in pairs(NUMBERS) do
+                  game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = v.Note.CFrame
+                  wait(3)
+                end
+            end,
+        })
+        
+        local GetKeypadFac = Farming.Button({
+            Text = "Teleport To Fac. Keypad",
+            Callback = function(value)
+                game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(625.04718, 61.8498535, 145.411041, 0, 0, 1, 0, 1, -0, -1, 0, 0)
+            end,
+        })
+        
+        local GetKeypadMaze = Farming.Button({
+            Text = "Teleport To Maze Keypad",
+            Callback = function(value)
+                game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(1294.85205, 62.65839, -159.861374, 0, 0, -1, 0, 1, 0, 1, 0, 0)
+            end,
+        })
+        
+        local GetCodeMaze = Farming.Button({
+            Text = "Get Code For Maze Keypad (F9)",
+            Callback = function(value)
+                print("250971")
+            end,
+        })
+        
+        local GetTreeHouse = Farming.Button({
+            Text = "Teleport To Tree House",
+            Callback = function(value)
+                local code1 = workspace.Map.Geometry:FindFirstChild("1")
+         
+                local code2 = workspace.Map.Geometry:FindFirstChild("2")
+         
+                local code3 = workspace.Map.Geometry:FindFirstChild("3")
+         
+                local code4 = workspace.Map.Geometry:FindFirstChild("4")
+         
+                if code1 then
+         
+                    print("Your specifical melee code is: "..code1.SurfaceGui.TextLabel.Text)
+         
+                end
+         
+                if code2 then
+         
+                    print("Your specifical melee code is: "..code2.SurfaceGui.TextLabel.Text)
+         
+                end
+         
+                if code3 then
+         
+                    print("Your specifical melee code is: "..code3.SurfaceGui.TextLabel.Text)
+         
+                end
+         
+                if code4 then
+         
+                    print("Your specifical melee code is: "..code4.SurfaceGui.TextLabel.Text)
+         
+                end
+            end,
+        })
+        
+        
+        local GetMeleeCode = Farming.Button({
+            Text = "Get Melee Code (Tree House)",
+            Callback = function(value)
+                game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-145.669632, 88.520752, -108.566017, 0.5592103, -0, -0.829025805, 0, 1, -0, 0.829025805, 0, 0.5592103)
+            end,
+        })
+        
+        local GetGrabbedCodesMaze = Stage3.Button({
+            Text = "Grab Maze Codes",
+            Callback = function(value)
+                local NUMBERS_C = game:GetService("Workspace").Maze.Notes:GetChildren()
+                for i, v in pairs(NUMBERS_C) do
+                  game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = v.Note.CFrame
+                  wait(3)
+                end
+            end,
+        })
+        --961.316223, 59.2083931, -297.808105, 0.995597243, -3.80714518e-08, 0.0937343538, 4.22142286e-08, 1, -4.22141788e-08, -0.0937343538, 4.59852458e-08, 0.995597243 CFrame stuff
+        local GetToMazeKeyPad = Stage3.Button({
+            Text = "Teleport To Maze Keypad 2",
+            Callback = function(value)
+                game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(961.316223, 59.2083931, -297.808105, 0.995597243, -3.80714518e-08, 0.0937343538, 4.22142286e-08, 1, -4.22141788e-08, -0.0937343538, 4.59852458e-08, 0.995597243)
+            end,
+        })
+        
+        
+        -- Fun
+        local Milo = Fun.Button({
+            Text = "Teleport To Milo Plush",
+            Callback = function(value)
+                game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = game:GetService("Workspace").Map.Geometry.Facility.MiloSpawns.MiloPlush.CFrame
+            end,
+        })
+        
+        local GetMoai = Fun.Button({
+            Text = "Get Moai Melee/Clock",
+            Callback = function(value)
+                game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = game:GetService("Workspace").Maze.clock.TimePart.CFrame
+            end,
+        })
+        
+        -- Gun Mods
+        local Info = Guns.Button({
+            Text = "DO NOT UNEQUIP DEAGLE IF USED! + MAKE SURE DEAGLE IS EQUIPPED",
+            Callback = function(Value)
+                print("no unequip deagle!!1!11")
+            end,
+        })
+        
+        local gunReload = Guns.Slider({
+            Text = "Reload Time",
+            Callback = function(Value)
+                game:GetService("ReplicatedStorage").Weapons.Deagle.ReloadTime.Value = Value
+            end,
+            Min = 0.3,
+            Max = 100,
+            Def = 1
+        })
+        
+        local Automated = Guns.Button({
+            Text = "Automatic Gun On",
+            Callback = function()
+                game:GetService("ReplicatedStorage").Weapons.Deagle.Auto.Value = true
+            end,
+        })
+        
+        local disAbleAuto = Guns.Button({
+            Text = "Automatic Gun Off",
+            Callback = function()
+                game:GetService("ReplicatedStorage").Weapons.Deagle.Auto.Value = false
+            end,
+        })
+        
+        local gunFireRate = Guns.Slider({
+            Text = "Gun Firerate",
+            Callback = function(Value)
+                game:GetService("ReplicatedStorage").Weapons.Deagle.FireRate.Value = Value
+            end,
+            Min = 0,
+            Max = 100,
+            Def = 1
+        })
+        
+        
+        print("Loaded")
+    end,
+ })
+
+
+
+
+
+ local Button = Tab:CreateButton({
+    Name = "🔫 | Arsenal | 2nd Script",
+    Callback = function()
+
+        for i = 2, 2 do
+            table.insert(getupvalues(getsenv(game.Players.LocalPlayer.PlayerGui.Menew.LocalScript).ViewItems)[3].Skins,"Monky With Drip")
+            table.insert(getupvalues(getsenv(game.Players.LocalPlayer.PlayerGui.Menew.LocalScript).ViewItems)[3].Skins,"Admin")
+            table.insert(getupvalues(getsenv(game.Players.LocalPlayer.PlayerGui.Menew.LocalScript).ViewItems)[3].Skins,"Myboe")
+        end
+        
+        function AddSkinDataForMissingSkins()
+            for i, v in pairs(game:GetService("ReplicatedStorage").StreamedAssets.ChrModels:GetChildren()) do
+                local Data = game:GetService("ReplicatedStorage").ItemData.Images.Skins:FindFirstChild(v.Name);
+                if not Data then
+                    local Skin = Instance.new("StringValue");
+                    Skin.Name = v.Name;
+                    Skin.Value = "rbxassetid://0";
+                    Skin.Parent = game:GetService("ReplicatedStorage").ItemData.Images.Skins;
+                    
+                    local Quality = Instance.new("StringValue");
+                    Quality.Name = "Quality";
+                    Quality.Value = "Admin";
+                    Quality.Parent = Skin;
+                end
+            end
+        end
+        
+        AddSkinDataForMissingSkins();
+        
+        function ApplyUnusual(player, unusual)
+            if player and player.Character and player.Character:FindFirstChild("Head") and unusual then
+                if player.Character.Head:FindFirstChild("Unusual") then
+                    player.Character.Head.Unusual:Destroy();
+                end
+                if player.Character:FindFirstChild("UnusualAnimation") then
+                    player.Character.UnusualAnimation:Destroy();
+                end
+                if game.ReplicatedStorage.Unusual:FindFirstChild(unusual) then
+                    local v76 = game.ReplicatedStorage.Unusual[unusual];
+                    if v76:FindFirstChild("Orbit") then
+                        if v76.Orbit.Value then
+                            local v77 = v76:Clone();
+                            v77.UnusualAnimation.Part0 = player.Character.Head;
+                            v77.UnusualAnimation.Part1 = v77;
+                            v77.Name = "UnusualAnimation";
+                            v77.Parent = player.Character;
+                            player.Character.Humanoid:LoadAnimation(v77.Anim):Play();
+                        else
+                            local v78 = {};
+                            local v79 = v76.Attachment:Clone();
+                            v79.Name = "Unusual";
+                            v79.Parent = player.Character.Head;
+                            local v80, v81, v82 = pairs(v76:GetChildren());
+                            while true do
+                                local v83, v84 = v80(v81, v82);
+                                if v83 then
+        
+                                else
+                                    break;
+                                end;
+                                v82 = v83;
+                                if v84.Name ~= "Attachment" then
+                                    local v85 = v84:Clone();
+                                    v85.Parent = player.Character.Head;
+                                    table.insert(v78, v85);
+                                end;						
+                            end;
+                            if player.Character.Head:FindFirstChild("b1") then
+                                local v86, v87, v88 = pairs(v79:GetChildren());
+                                while true do
+                                    local v89, v90 = v86(v87, v88);
+                                    if v89 then
+        
+                                    else
+                                        break;
+                                    end;
+                                    v88 = v89;
+                                    if v90:IsA("Beam") then
+                                        if v90.Name == "BeamA" then
+                                            v90.Attachment0 = player.Character.Head.a1;
+                                            v90.Attachment1 = player.Character.Head.a2;
+                                        elseif v90.Name == "BeamC" then
+                                            v90.Attachment0 = player.Character.Head.c1;
+                                            v90.Attachment1 = player.Character.Head.c2;
+                                        else
+                                            v90.Attachment0 = player.Character.Head.b1;
+                                            v90.Attachment1 = player.Character.Head.b2;
+                                        end;
+                                    end;							
+                                end;
+                            end;
+                            v79.AncestryChanged:connect(function(p15)
+                                if not p15 then
+                                    local v91, v92, v93 = pairs(v78);
+                                    while true do
+                                        local v94, v95 = v91(v92, v93);
+                                        if v94 then
+        
+                                        else
+                                            break;
+                                        end;
+                                        v93 = v94;
+                                        v95:Destroy();								
+                                    end;
+                                end;
+                            end);
+                        end;
+                    else
+                        v78 = {};
+                        v79 = v76.Attachment:Clone();
+                        v79.Name = "Unusual";
+                        v79.Parent = player.Character.Head;
+                        v80, v81, v82 = pairs(v76:GetChildren());
+                        while true do
+                            v83, v84 = v80(v81, v82);
+                            if v83 then
+        
+                            else
+                                break;
+                            end;
+                            v82 = v83;
+                            if v84.Name ~= "Attachment" then
+                                v85 = v84:Clone();
+                                v85.Parent = player.Character.Head;
+                                table.insert(v78, v85);
+                            end;					
+                        end;
+                        if player.Character.Head:FindFirstChild("b1") then
+                            v86, v87, v88 = pairs(v79:GetChildren());
+                            while true do
+                                v89, v90 = v86(v87, v88);
+                                if v89 then
+        
+                                else
+                                    break;
+                                end;
+                                v88 = v89;
+                                if v90:IsA("Beam") then
+                                    if v90.Name == "BeamA" then
+                                        v90.Attachment0 = player.Character.Head.a1;
+                                        v90.Attachment1 = player.Character.Head.a2;
+                                    elseif v90.Name == "BeamC" then
+                                        v90.Attachment0 = player.Character.Head.c1;
+                                        v90.Attachment1 = player.Character.Head.c2;
+                                    else
+                                        v90.Attachment0 = player.Character.Head.b1;
+                                        v90.Attachment1 = player.Character.Head.b2;
+                                    end;
+                                end;						
+                            end;
+                        end;
+                        v79.AncestryChanged:connect(function(p15)
+                            if not p15 then
+                                v91, v92, v93 = pairs(v78);
+                                while true do
+                                    v94, v95 = v91(v92, v93);
+                                    if v94 then
+        
+                                    else
+                                        break;
+                                    end;
+                                    v93 = v94;
+                                    v95:Destroy();							
+                                end;
+                            end;
+                        end);
+                    end;
+                end;
+            end;
+        end
+        
+        function convert_rgb_to_vertex(c3)
+            return Vector3.new(c3.R, c3.G, c3.B)
+        end
+        
+        function GetColor()
+            if game:GetService("Players").LocalPlayer.Neutral then
+                return game:GetService("Players").LocalPlayer.DesignColor.Value;
+            end
+            return game:GetService("Players").LocalPlayer.TeamColor;
+        end
+        
+        function weldAccessory(accessory, character)
+            local newAccessory = accessory:Clone();
+            newAccessory.Parent = character;
+            if newAccessory:FindFirstChild("Handle") then
+                local handle = newAccessory.Handle;
+                local mesh = handle:FindFirstChildWhichIsA("SpecialMesh");
+                if mesh and mesh.VertexColor == Vector3.new(1, 0, 0.749) then
+                    mesh.VertexColor = convert_rgb_to_vertex(GetColor().Color);
+                end
+                if tostring(handle.BrickColor) == "Hot pink" then
+                    handle.BrickColor = GetColor();
+                    handle.Color = GetColor().Color;
+                end
+                local AccessoryWeld;
+                for i, v in pairs(handle:GetChildren()) do
+                    if v.Name == "AccessoryWeld" and v.Part1 ~= nil then
+                        AccessoryWeld = v;
+                    end
+                end
+                if AccessoryWeld then
+                    AccessoryWeld.Part0 = handle;
+                    AccessoryWeld.Part1 = character[AccessoryWeld.Part1.Name];
+                end
+            end
+        end
+        
+        function EquipSkin(skin, character)
+            if not character then return warn("skin doesnt exist retarded humanoid") end;
+            if not character:FindFirstChild("Head") then return warn("fakehead failure") end;
+            if not character:FindFirstChild("HumanoidRootPart") then return warn("root failure") end;
+            local chrModel = game:GetService("ReplicatedStorage").StreamedAssets.ChrModels:FindFirstChild(skin);
+            if chrModel then
+                for i, v in pairs(character:GetChildren()) do
+                    if v:IsA("Accessory") then
+                        v.Parent = nil;
+                    end
+                end
+                for i, v in pairs(character:GetChildren()) do
+                    if v:IsA("MeshPart") and (v.Name:match("Arm") or v.Name:match("Hand")) then
+                        v.Transparency = (game.Players.LocalPlayer.Data.Skin.Value:match("Buff") and 1 or 0);
+                    end
+                end
+                local shirt = chrModel:FindFirstChildWhichIsA("Shirt");
+                local pants = chrModel:FindFirstChildWhichIsA("Pants");
+                local face = chrModel.Head:FindFirstChild("face");
+                if chrModel:FindFirstChildWhichIsA("BodyColors") then
+                    if character:FindFirstChildWhichIsA("BodyColors") then
+                        character:FindFirstChildWhichIsA("BodyColors"):Destroy();
+                    end
+                    local Parts = { "HeadColor", "LeftArmColor", "LeftLegColor", "RightArmColor", "RightLegColor", "TorsoColor" }
+                    local bodycolors = chrModel:FindFirstChildWhichIsA("BodyColors"):Clone();
+                    bodycolors.Parent = character;
+                    if character:FindFirstChild("FakeHead") then
+                        character.FakeHead.Color = bodycolors.HeadColor3;
+                    end
+                    for i, v in pairs(Parts) do
+                        if tostring(bodycolors[v]) == "Hot pink" then
+                            bodycolors[v] = GetColor();
+                        end
+                    end
+                end
+                if shirt then
+                    if character:FindFirstChildWhichIsA("Shirt") then
+                        character:FindFirstChildWhichIsA("Shirt").ShirtTemplate = shirt.ShirtTemplate;
+                    end
+                else
+                    if character:FindFirstChildWhichIsA("Shirt") then
+                        character:FindFirstChildWhichIsA("Shirt").ShirtTemplate = "rbxassetid://0";
+                    end
+                end
+                if pants then
+                    if character:FindFirstChildWhichIsA("Pants") then
+                        character:FindFirstChildWhichIsA("Pants").PantsTemplate = pants.PantsTemplate;
+                    end
+                else
+                    if character:FindFirstChildWhichIsA("Pants") then
+                        character:FindFirstChildWhichIsA("Pants").PantsTemplate = "rbxassetid://0";
+                    end
+                end
+                if face then
+                    if character:FindFirstChild("FakeHead") then
+                        if character.FakeHead:FindFirstChild("face") then
+                            character.FakeHead.face.Texture = face.Texture;
+                        end
+                    end
+                    if character.Head:FindFirstChild("face") then
+                        character.Head.face.Texture = face.Texture;
+                    end
+                end
+                for i, v in pairs(chrModel:GetChildren()) do
+                    if v:IsA("Accessory") then
+                        weldAccessory(v, character);
+                    end
+                end
+            else
+                return warn("[equipSkin] Skin not found")
+            end
+        end
+        
+        
+        local Hooks = loadstring(game:HttpGet("https://pastebin.com/raw/ByQs3S0R"))();
+        local hkGame = Hooks:new(getrawmetatable(game));
+        
+        hkGame:Hook("__namecall", function(self, ...) 
+            local args = {...};
+            if self.Name == "UpdateLoadout" then
+                if args[1] and args[1][1] == "UpdateLoadout" then
+                    local Loadout = args[1][2]
+                    local unusual = Loadout.Skin:split("_")[2];
+                    if unusual then
+                        game.Players.LocalPlayer.Data.Skin.Value = Loadout.Skin:split("_")[1];
+                        game.Players.LocalPlayer.Data.Skin.Unusual.Value = Loadout.Skin:split("_")[2];
+                        ApplyUnusual(game:GetService("Players").LocalPlayer, Loadout.Skin:split("_")[2]);
+                        args[1][2].Skin = Loadout.Skin:split("_")[1];
+                    else
+                        game.Players.LocalPlayer.Data.Skin.Value = Loadout.Skin;
+                        game.Players.LocalPlayer.Data.Skin.Unusual.Value = "";
+                        if game.Players.LocalPlayer.Character.Head:FindFirstChild("Unusual") then
+                            game.Players.LocalPlayer.Character.Head.Unusual:Destroy();
+                        end
+                        if game.Players.LocalPlayer.Character:FindFirstChild("UnusualAnimation") then
+                            game.Players.LocalPlayer.Character.UnusualAnimation:Destroy();
+                        end
+                    end
+                end
+            end
+            if self.Name == "SpawnMe" then
+                spawn(function()
+                    EquipSkin(game:GetService("Players").LocalPlayer.Data.Skin.Value, game:GetService("Players").LocalPlayer.Character);
+                end)
+            end
+            if self.Name == "GetInventory" then
+                setupvalue(Core.ViewItems, 1, Loadout);
+            end	
+            return hkGame:getOriginal("__namecall")(self, unpack(args));
+        end)
+        
+        -- I had 2 mental breakdowns while trying to get this to work
+        workspace.Debris.ChildAdded:Connect(function(child)
+            if child.Name == game:GetService("Players").LocalPlayer.Name then
+                EquipSkin(game:GetService("Players").LocalPlayer.Data.Skin.Value, child);
+            end
+        end)
+        
+    end,
+ })
+
+
+
+
+ local Button = Tab:CreateButton({
+    Name = "Universal | Unnamed Cheat",
+    Callback = function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/mrgunz/UnnamedCheat/main/Launcher"))()
+    end,
+ })
+
+
+ local Button = Tab:CreateButton({
+    Name = "🧟 | Blox Fruits",
+    Callback = function()
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/BTDCBUUS1/loader/refs/heads/main/loader.lua"))()
+    end,
+ })
+
+
+
