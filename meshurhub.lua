@@ -107,12 +107,6 @@ local Label = Tab:CreateLabel("💻 | Thanks for using my script! | 💻", nil, 
  local Tab = Window:CreateTab("💻 | Scripts | 💻", nil) -- Title, Image
  local Section = Tab:CreateSection("🌠 | Scripts Section")
 
- local Button = Tab:CreateButton({
-   Name = "⭐ | Solara Hub V3 Auto Update",
-   Callback = function()
-      loadstring(game:HttpGet("https://raw.githubusercontent.com/samuraa1/Solara-Hub/refs/heads/main/Solara%20Hub.lua"))()
-   end,
-})
 
 local Button = Tab:CreateButton({
    Name = "🦹 | Prison Life",
